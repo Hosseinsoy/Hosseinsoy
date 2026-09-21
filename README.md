@@ -33,6 +33,14 @@ I enjoy building backend applications with Python and Django and exploring softw
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
+
+### 💡 Core Skills
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Design
+- Object-Relational Mapping (ORM)
+- Computer Networks
 ---
 
 ## 🚀 Featured Projects
