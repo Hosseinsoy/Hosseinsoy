@@ -11,20 +11,28 @@ I enjoy building backend applications with Python and Django and exploring softw
 ## 🛠️ Technologies & Tools
 
 ### Languages
-Python · SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ### Backend & Web
-Django
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django" />
+</p>
 
 ### Databases
-MySQL
 
-### Software Engineering
-Git · OOP · Data Structures & Algorithms
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
-### Systems & Infrastructure
-Linux · Computer Networks
+### Tools & Infrastructure
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
 ---
 
 ## 🚀 Featured Projects
