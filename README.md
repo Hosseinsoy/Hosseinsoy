@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Hossein 👋
 
-<!--
-**Hosseinsoy/Hosseinsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Backend & Software Engineering
 
-Here are some ideas to get you started:
+I'm interested in building reliable and scalable software systems, with a focus on Backend Development, Software Engineering, Databases, and Distributed Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building backend applications with Python and Django and exploring software architecture, system design, and scalable systems.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+Python · SQL
+
+### Backend & Web
+Django
+
+### Databases
+MySQL
+
+### Software Engineering
+Git · OOP · Data Structures & Algorithms
+
+### Systems & Infrastructure
+Linux · Computer Networks
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Platform
+A Django-based e-commerce application with authentication, product management, search, filtering, cart, and user interactions.
+
+### 🤖 Product Recommendation System
+A hybrid recommendation system integrated into a Django e-commerce platform, using user behavior and product characteristics to generate personalized recommendations.
